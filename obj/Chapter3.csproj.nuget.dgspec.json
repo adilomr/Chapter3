@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu/Masaüstü/PartyInvites/Chapter3/Chapter3.csproj": {}
+    "/home/ubuntu/Masaüstü/PartyInvites/bmb-308-hw1-adilomr/Chapter3/Chapter3.csproj": {}
   },
   "projects": {
-    "/home/ubuntu/Masaüstü/PartyInvites/Chapter3/Chapter3.csproj": {
+    "/home/ubuntu/Masaüstü/PartyInvites/bmb-308-hw1-adilomr/Chapter3/Chapter3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/Masaüstü/PartyInvites/Chapter3/Chapter3.csproj",
+        "projectUniqueName": "/home/ubuntu/Masaüstü/PartyInvites/bmb-308-hw1-adilomr/Chapter3/Chapter3.csproj",
         "projectName": "Chapter3",
-        "projectPath": "/home/ubuntu/Masaüstü/PartyInvites/Chapter3/Chapter3.csproj",
+        "projectPath": "/home/ubuntu/Masaüstü/PartyInvites/bmb-308-hw1-adilomr/Chapter3/Chapter3.csproj",
         "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/Masaüstü/PartyInvites/Chapter3/obj/",
+        "outputPath": "/home/ubuntu/Masaüstü/PartyInvites/bmb-308-hw1-adilomr/Chapter3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ubuntu/.nuget/NuGet/NuGet.Config"
